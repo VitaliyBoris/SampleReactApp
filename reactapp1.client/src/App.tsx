@@ -5,7 +5,7 @@ function App() {
     const configuration: AutoCompleteConfiguration = {
         apiUrl: '/api/babynames',
         debounceTimeOut: 300,
-        limit: 100
+        limit: 10
     };
 
     const [name, autoComplete] = useAutoComplete(configuration);
