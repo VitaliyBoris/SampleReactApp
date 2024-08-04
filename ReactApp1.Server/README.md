@@ -1,6 +1,6 @@
 # ASP.NET Core
 
-This project is a simple WebApi ASP.NET Core based service to.
+This project is a simple WebApi ASP.NET Core based service.
 
 ## Prerequirements
 
